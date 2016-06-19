@@ -10,3 +10,5 @@ Making Your Code Citable : https://guides.github.com/activities/citable-code/
 
 Be Social : https://guides.github.com/activities/socialize/
 
+Getting Started with GitHub Pages : https://guides.github.com/features/pages/
+
