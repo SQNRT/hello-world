@@ -18,8 +18,3 @@ Mastering Issues : https://guides.github.com/features/issues/
 Mastering Wikis : https://guides.github.com/features/wikis/
 
 Mastering Markdown : https://guides.github.com/features/mastering-markdown/
-
-
-Forking Projects ： https://guides.github.com/activities/forking/
-
-Contributing to Open Source on GitHub : https://guides.github.com/activities/contributing-to-open-source/
