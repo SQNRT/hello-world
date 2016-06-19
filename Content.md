@@ -7,3 +7,6 @@ Getting your project on GitHub : https://guides.github.com/introduction/getting-
 
 Making Your Code Citable : https://guides.github.com/activities/citable-code/
 
+
+Be Social : https://guides.github.com/activities/socialize/
+
